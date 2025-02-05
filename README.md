@@ -2,7 +2,7 @@
 Game is still in the process...
 
 ## Description
-Escape Home is a simple text-based adventure game like Zork.
+Escape Home is a simple text-based adventure game like Zork.                                                                                                                                                            
 Solve puzzles and find clues to escape the home.
 
 ## Features
@@ -11,5 +11,5 @@ Solve puzzles and find clues to escape the home.
 • Various puzzles and challenges.
 
 ## Future Improvements
-• Adding more rooms with different difficulty levels.
+• Adding more rooms with different difficulty levels.                                                                                                                                                                   
 • Enhancing the storyline with more interactive elements.
